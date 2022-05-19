@@ -1,0 +1,14 @@
+C:\Users\guest01\source\repos\Cinco valores em dois vetores\Cinco valores em dois vetores\bin\Debug\netcoreapp3.1\Cinco valores em dois vetores.exe
+C:\Users\guest01\source\repos\Cinco valores em dois vetores\Cinco valores em dois vetores\bin\Debug\netcoreapp3.1\Cinco valores em dois vetores.deps.json
+C:\Users\guest01\source\repos\Cinco valores em dois vetores\Cinco valores em dois vetores\bin\Debug\netcoreapp3.1\Cinco valores em dois vetores.runtimeconfig.json
+C:\Users\guest01\source\repos\Cinco valores em dois vetores\Cinco valores em dois vetores\bin\Debug\netcoreapp3.1\Cinco valores em dois vetores.runtimeconfig.dev.json
+C:\Users\guest01\source\repos\Cinco valores em dois vetores\Cinco valores em dois vetores\bin\Debug\netcoreapp3.1\Cinco valores em dois vetores.dll
+C:\Users\guest01\source\repos\Cinco valores em dois vetores\Cinco valores em dois vetores\bin\Debug\netcoreapp3.1\Cinco valores em dois vetores.pdb
+C:\Users\guest01\source\repos\Cinco valores em dois vetores\Cinco valores em dois vetores\obj\Debug\netcoreapp3.1\Cinco valores em dois vetores.csproj.AssemblyReference.cache
+C:\Users\guest01\source\repos\Cinco valores em dois vetores\Cinco valores em dois vetores\obj\Debug\netcoreapp3.1\Cinco valores em dois vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest01\source\repos\Cinco valores em dois vetores\Cinco valores em dois vetores\obj\Debug\netcoreapp3.1\Cinco valores em dois vetores.AssemblyInfoInputs.cache
+C:\Users\guest01\source\repos\Cinco valores em dois vetores\Cinco valores em dois vetores\obj\Debug\netcoreapp3.1\Cinco valores em dois vetores.AssemblyInfo.cs
+C:\Users\guest01\source\repos\Cinco valores em dois vetores\Cinco valores em dois vetores\obj\Debug\netcoreapp3.1\Cinco valores em dois vetores.csproj.CoreCompileInputs.cache
+C:\Users\guest01\source\repos\Cinco valores em dois vetores\Cinco valores em dois vetores\obj\Debug\netcoreapp3.1\Cinco valores em dois vetores.dll
+C:\Users\guest01\source\repos\Cinco valores em dois vetores\Cinco valores em dois vetores\obj\Debug\netcoreapp3.1\Cinco valores em dois vetores.pdb
+C:\Users\guest01\source\repos\Cinco valores em dois vetores\Cinco valores em dois vetores\obj\Debug\netcoreapp3.1\Cinco valores em dois vetores.genruntimeconfig.cache
